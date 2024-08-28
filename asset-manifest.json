@@ -1,13 +1,37 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/ExpenseTracker/static/css/main.74728673.css",
+    "main.js": "/ExpenseTracker/static/js/main.9a3e9bf7.js",
+    "static/js/121.23b53100.chunk.js": "/ExpenseTracker/static/js/121.23b53100.chunk.js",
+    "static/js/230.c42efc16.chunk.js": "/ExpenseTracker/static/js/230.c42efc16.chunk.js",
+    "static/js/629.5ed17555.chunk.js": "/ExpenseTracker/static/js/629.5ed17555.chunk.js",
+    "static/js/668.45c64274.chunk.js": "/ExpenseTracker/static/js/668.45c64274.chunk.js",
+    "static/js/824.2ff121a6.chunk.js": "/ExpenseTracker/static/js/824.2ff121a6.chunk.js",
+    "static/media/no_data_abstract.png": "/ExpenseTracker/static/media/no_data_abstract.7998a2fa200f66ab3d0c.png",
+    "static/media/server-error.png": "/ExpenseTracker/static/media/server-error.22b27456e122853a79ea.png",
+    "static/media/hero_desktop_@2x.jpg": "/ExpenseTracker/static/media/hero_desktop_@2x.2a6784d6e404e8100441.jpg",
+    "static/media/hero_tablet_@2x.jpg": "/ExpenseTracker/static/media/hero_tablet_@2x.f38ba292d08cab3bc000.jpg",
+    "static/media/hero_mobile_@2x.jpg": "/ExpenseTracker/static/media/hero_mobile_@2x.76d67c6497a01cb877ef.jpg",
+    "static/media/hero_desktop_@1x.jpg": "/ExpenseTracker/static/media/hero_desktop_@1x.ace94764272a5d5b5cb4.jpg",
+    "static/media/hero_tablet_@1x.jpg": "/ExpenseTracker/static/media/hero_tablet_@1x.4da1661d963914b2034d.jpg",
+    "static/media/hero_mobile_@1x.jpg": "/ExpenseTracker/static/media/hero_mobile_@1x.ae9caf391a2cac027c19.jpg",
+    "static/media/SuisseIntl-Bold.woff": "/ExpenseTracker/static/media/SuisseIntl-Bold.de95d736320ca1798e64.woff",
+    "static/media/SuisseIntl-Regular.woff": "/ExpenseTracker/static/media/SuisseIntl-Regular.aea326c0223e1531fbe9.woff",
+    "static/media/SuisseIntl-Bold.woff2": "/ExpenseTracker/static/media/SuisseIntl-Bold.bec7b9dda193a28907ad.woff2",
+    "static/media/SuisseIntl-Regular.woff2": "/ExpenseTracker/static/media/SuisseIntl-Regular.6e440c24ca670850db00.woff2",
+    "static/media/images_users_2x@.png": "/ExpenseTracker/static/media/images_users_2x@.5eeae9b8b3455548bd2f.png",
+    "static/media/images_users_1x@.png": "/ExpenseTracker/static/media/images_users_1x@.c1c11a19d97602915a48.png",
+    "index.html": "/ExpenseTracker/index.html",
+    "main.74728673.css.map": "/ExpenseTracker/static/css/main.74728673.css.map",
+    "main.9a3e9bf7.js.map": "/ExpenseTracker/static/js/main.9a3e9bf7.js.map",
+    "121.23b53100.chunk.js.map": "/ExpenseTracker/static/js/121.23b53100.chunk.js.map",
+    "230.c42efc16.chunk.js.map": "/ExpenseTracker/static/js/230.c42efc16.chunk.js.map",
+    "629.5ed17555.chunk.js.map": "/ExpenseTracker/static/js/629.5ed17555.chunk.js.map",
+    "668.45c64274.chunk.js.map": "/ExpenseTracker/static/js/668.45c64274.chunk.js.map",
+    "824.2ff121a6.chunk.js.map": "/ExpenseTracker/static/js/824.2ff121a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.74728673.css",
+    "static/js/main.9a3e9bf7.js"
   ]
 }
